@@ -41,7 +41,11 @@
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
     {"id":{"name":"obj_winner","path":"objects/obj_winner/obj_winner.yy",},},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
-    {"id":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
+    {"id":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
+    {"id":{"name":"rm2","path":"rooms/rm2/rm2.yy",},},
+    {"id":{"name":"sn_crash","path":"sounds/sn_crash/sn_crash.yy",},},
+    {"id":{"name":"sn_rmmm","path":"sounds/sn_rmmm/sn_rmmm.yy",},},
+    {"id":{"name":"Sound2","path":"sounds/Sound2/Sound2.yy",},},
     {"id":{"name":"obj_carleft","path":"sprites/obj_carleft/obj_carleft.yy",},},
     {"id":{"name":"obj_crashed","path":"sprites/obj_crashed/obj_crashed.yy",},},
     {"id":{"name":"spr_car","path":"sprites/spr_car/spr_car.yy",},},
@@ -55,7 +59,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},},
-    {"roomId":{"name":"rm_2","path":"rooms/rm_2/rm_2.yy",},},
+    {"roomId":{"name":"rm2","path":"rooms/rm2/rm2.yy",},},
+    {"roomId":{"name":"rm_3","path":"rooms/rm_3/rm_3.yy",},},
+    {"children":[],"groupName":"group",},
   ],
   "templateType":"game",
   "TextureGroups":[
